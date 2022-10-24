@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\20181011110006\source\repos\Marcio_Poo\Aula02\Aula02\obj\Debug\netcoreapp3.0\
+C:\Users\20181011110006\source\repos\Marcio_Poo\Aula02\Aula02\obj\Release\netcoreapp3.0\
 Aula02
 none
 false
-TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_0;
+TRACE;RELEASE;NETCOREAPP;NETCOREAPP3_0;
 C:\Users\20181011110006\source\repos\Marcio_Poo\Aula02\Aula02\App.xaml
 11407045341
 
